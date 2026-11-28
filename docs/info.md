@@ -13,7 +13,7 @@ The BCD-to-7-segment decoder converts a 4-bit binary number (BCD code) into logi
 
 ## How to test
 
-Testing of valid combinations, testing of error conditions.
+You must enter a binary number, a number will appear on the display. Testing of valid combinations, testing of error conditions.
 
 ## External hardware
 
